@@ -1,4 +1,4 @@
-## Hey!! Saad here 😄, Welcome to my Git portfolio 👋
+## Hey!! Saad here, Welcome to my Git portfolio 👋
 
 ### What you need to know:
 ```json
