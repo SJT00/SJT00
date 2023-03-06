@@ -7,8 +7,10 @@
   "lastName": "Taj",
   "universityTerm": "4B",
   "peronalWebsite": "https://sjt00.github.io/",
-  "languages": ["JavaScript,TypeScript","Python","Java","C#","C","Ruby","PHP"],
-  "frameworks": ["React.js","Node.js","Express.js","MongoDB","ASP.NET Core","Jest"],
+  "languages": ["JavaScript,TypeScript","Python","Java","C#","C",
+                "Ruby","PHP"],
+  "frameworks": ["React.js","Node.js","Express.js","MongoDB",
+                "ASP.NET Core","Jest"],
   "databases": ["MongoDB","MySQL","PostgreSQL"],
 }
 ```
