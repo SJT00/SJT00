@@ -5,7 +5,7 @@
 {
   "firstName": "Saad",
   "lastName": "Taj",
-  "universityTerm": "4B",
+  "universityDegree": "Mathematics@UWaterloo",
   "peronalWebsite": "https://sjt00.github.io/",
   "languages": ["JavaScript,TypeScript","Python","Java","C#","C",
                 "Ruby","PHP"],
